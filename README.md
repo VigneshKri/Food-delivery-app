@@ -1,2 +1,1 @@
-Header navbar for a food application
-25/11/2023 initial commit
+Front end of a react food delivery app where you can add the items into the cart and the cart details will be updates dynamically
